@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(to right, #fff000, #ff0000);
+}
+#login_div1{
+    height: 150px;
+    width: 50%;
+    background-color: lightblue;
+}
